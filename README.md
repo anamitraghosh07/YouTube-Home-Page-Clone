@@ -1,2 +1,2 @@
-# YouTube-Home-Page-Clone
-A simple clone of YouTube Home Page using HTML and CSS
+# youtube.com-Home-Page-Clone
+A simple clone of youtube.com Home Page using HTML and CSS
